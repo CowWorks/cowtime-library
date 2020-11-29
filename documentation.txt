@@ -1,0 +1,18 @@
+
+*********************************************************************
+*	This file contains the documentation for the CowTime Library,   *
+*a library which handles countdowns and timers.                     *
+*                                                                   *
+*                                                                   *
+*	In order to use this library you must first include the         *
+*cowtime.h header file within your project.                         *
+*	                                                                *
+*	The Library has two functions: timer() and countdown().         *
+* both of them are void functions and hence do not return anything. *
+* timer() takes no parameters and counts time starting at 00:00:00. *
+* countdown() takes four parameters, the first one is the hours     *
+* the second one is the minutes, the third one is the seconds, and  *
+* the fourth one tells the function whether to print anything below *
+* or on the same line.                                              *
+* *******************************************************************
+
